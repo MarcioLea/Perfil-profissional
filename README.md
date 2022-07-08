@@ -14,11 +14,8 @@ Técnico em informática
 
 Fundação de apoio a Escola Técnica do Estado do Rio de Janeiro (Faetec)
 
-Carga horária (1200 horas).
 ## Experiência
 Instrutor de informática
-
-maio de 2009 a dezembro de 2016
 
 GMB-Informática
 
