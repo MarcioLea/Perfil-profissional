@@ -1,5 +1,5 @@
 # Marcio L. Oliveira
-## Perfil profissional
+## Perfil
 Profissional técnico em informática capacitado e habilitado a aplicar as técnicas de
 desenvolvimento, análise e implantação de projetos de sistemas para web e
 desktop, utilizando as tecnologias de modelagem de dados nos diversos sistemas
